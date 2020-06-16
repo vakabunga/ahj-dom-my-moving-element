@@ -1,0 +1,1 @@
+*{box-sizing:border-box}body{margin:auto}.board{display:flex;flex-wrap:wrap}.cell{border:1px dashed green;width:120px;height:120px;margin:3px}.active{background-image:url(2dbd01ce16c0fa83cb67e20c73dedb66.png)}
